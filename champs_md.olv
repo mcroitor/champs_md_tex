@@ -1,0 +1,573 @@
+---
+algebraic: {}
+options: []
+stipulation: ''
+---
+algebraic:
+  black: [Bd1, Pa2, Pf3, Qc3, Pa3, Sh4, Pg4, Ke4, Pc4, Bc5, Pa5, Pb6, Rf7, Sd7]
+  white: [Pb2, Bb3, Pd4, Bb4, Ra4, Pg5, Ke6, Pe7]
+authors: [Ivanov A.]
+options: []
+solution: "1.cxd3 (e.p.) Bxc5\n    2.Qxc4 Rxc4#\n \n 1. Qd3  Bd2\n    2. c3  Bd5#"
+source: VIII Êîìàíäíîå ïåðâåíñòâî ÑÑÑÐ, 1972
+stipulation: H#2
+---
+algebraic:
+  black: [Pe2, Bd3, Kd4, Pc4, Ph6, Pf7, Pc7, Qf8, Bd8]
+  white: [Pg3, Se4, Be7, Ka7]
+authors: [Moldoveanu P.]
+options: []
+solution: "1. c5  Bh4\n    2. Bg5  Sc3\n       3. Be3  Bf6#\n 1. Ke3  Ba3\n    2.\
+  \ Qb4  Sg5\n       3. Qd2  Bc5#"
+source: Probleemblad, 1996
+stipulation: H#3
+---
+algebraic:
+  black: [Kh1, Ph2, Rh3, Pg3, Ph4, Pd7]
+  white: [Ke1, Pg2, Bd4, Pc5, Pe6, Sf7, Ba8]
+authors: [Moldoveanu N.]
+options: []
+solution: "1. c6! [2. exd7 Öóãöâàíã\n    2. ... Kxg2 3. c7#]\n 1. ... dxe6 2. Se5\
+  \ Öóãöâàíã\n    2. ... Kxg2 3. c7#\n 1. ... dxc6 2. Bc5 Öóãöâàíã\n    2. ... Kxg2\
+  \ 3. Bxc6#\n 1. ... d6 2. Sxd6 Öóãöâàíã\n    2. ... Kxg2 3. c7#\n 1. ... d5 2. c7\
+  \ Öóãöâàíã\n    2. ... Kxg2 3. Bxd5#"
+source: No3907, Problem, 1970
+stipulation: '#3'
+---
+algebraic:
+  black: [Sh3, Pf4, Pf5, Bh6, Pg6, Pg7, Pc7, Kc8]
+  white: [Bh1, Sc3, Ka3, Bb4, Rb5, Pc6]
+authors: [Voronov A  \avCroitor M]
+options: []
+source: '1998'
+stipulation: '#4'
+---
+algebraic:
+  black: [Kd4, Bc5, Se7]
+  white: [Kb3, Rb5, Bd8]
+authors: [Ghinda A]
+options: []
+solution: "1. Bd6  Rh5\n    2. Sc6  Bg5\n       3. Kc5  Be3#"
+source: ''
+stipulation: H#3
+---
+algebraic:
+  black: [Pc2, Pf5, Pb5, Pe6, Pa6, Pg7, Pd7, Pc7, Ka8]
+  white: [Pd3, Pc3, Pf4, Pe4, Pd5, Pd6, Pb6, Pa7, Kc8]
+authors: [Ivanov A]
+options: []
+solution: win
+source: 3° Place III champ Ucraine
+stipulation: '#6'
+---
+algebraic:
+  black: [Rg1, Bb1, Se2, Pd2, Bg3, Kd4, Sd5, Pc7]
+  white: [Bf1, Qh3, Ra3, Pe4, Sc4, Sc5, Ka5, Bh6, Rc6]
+authors: [Moldoveanu P]
+options: []
+source: ''
+stipulation: '#2'
+---
+algebraic:
+  black: [Bh1, Pg2, Pd2, Pg3, Be3, Pf4, Kd8]
+  white: [Kg1, Qf2]
+authors: [Ivanov A]
+options: []
+source: ''
+stipulation: H#4
+---
+algebraic:
+  black: [Qd2, Sf3, Bc3, Pb3, Ra3, Kc4, Sa4, Pe5, Pa7]
+  white: [Bh1, Sd1, Pc2, Pa2, Qg3, Re3, Pd4, Pb4, Ka5, Pa6, Rd8]
+authors: [Chicanov N]
+options: []
+source: ''
+stipulation: S#2
+---
+algebraic:
+  black: [Sh1, Bg1, Bf1, Pd2, Kf3, Pd4, Pe5, Pc5, Ra5, Qh6, Pe6, Se8]
+  white: [Pc2, Kb2, Se3, Rb3, Pf4, Se4, Rf7, Ba8]
+authors: [Chicanov N.]
+options: []
+source: V World champ
+stipulation: H#2
+---
+algebraic:
+  black: [Bh2, Sh4, Rc4, Rd5, Ke6, Sc7]
+  white: [Ba2, Qd3, Pc5, Rd7, Bh8, Kd8]
+authors: [Ivanov A]
+options: []
+solution: "Solution: 1. Qh7! [2. Qf7#]\n 1. ... Rxd7+ 2. Qxd7#\n 1. ... Rf5 2. Qe7#\n\
+  \ 1. ... Rf4 2. Rd6#"
+source: 690, Uralskii Problemist, 1999
+stipulation: '#2'
+---
+algebraic:
+  black: [Kd2, Pd5, Pa5, Bg8]
+  white: [Sc2, Pc3, Kc5]
+authors: [Voronov A]
+options: []
+solution: draw
+source: Studistica, 2000
+stipulation: =7
+---
+algebraic:
+  black: [Pc4, Pa5, Pg7, Kg8]
+  white: [Pg5, Kg6, Sc6]
+authors: ['']
+options: []
+solution: draw
+source: ''
+stipulation: =2
+---
+algebraic:
+  black: [Qh5, Pd5, Pa5, Ka6]
+  white: [Bf1, Pd3, Rh6, Pe6, Ka8]
+authors: [Ivanov A]
+options: []
+solution: "1. Qe2  d4\n    2. Qb5  e7#\n 1. Qg6  e7\n    2. Qb6  d4#"
+source: Mention Molodi Ucrainy
+stipulation: H#2
+---
+algebraic:
+  black: [Pa4, Kd5]
+  white: [Ke1, Ra1, Sc6]
+authors: [Cojocari V]
+options: []
+source: HonourableMention Barsukovu-60, 2000
+stipulation: H#3
+twins: {b: Move a4 e6, c: Move a4 e4, d: Move a4 c4}
+---
+algebraic:
+  black: [Sh2, Pf2, Rh3, Pg3, Pf3, Kh4, Pe4, Ra4, Ph5, Pa7]
+  white: [Kh1, Rf1, Sh6, Sh7, Qa8]
+authors: [Cebanov N]
+options: []
+source: z.163, Probleemblad, 2001
+stipulation: S#3
+---
+algebraic:
+  black: [Ph6, Kg6, Pf6, Pg7]
+  white: [Ph2, Pg3, Kh4]
+authors: [Voronov A]
+options: []
+solution: draw
+source: Studistica, 2000
+stipulation: =2
+---
+algebraic:
+  black: [Qd1, Pg2, Pg4, Bf4, Kf6]
+  white: [Rf2, Bd2, Ka3, Pd4, Sh6, Bf7, Sc8]
+authors: [Tcaciuc V]
+options: []
+solution: "1. Qh1  Bxf4\n    2. Qxh6  Bxh6#\n 1. Qf3+  Bc3\n    2. Bg5  d5#"
+source: ''
+stipulation: H#2
+---
+algebraic:
+  black: [Bf1, Be1, Sf2, Re3, Kf4, Qe4, Pf5]
+  white: [Bh1, Rg1, Pd4, Ka4, Sg5]
+authors: [Ivanov A]
+options: []
+solution: "1. Qf3  Rg2\n    2. Se4  Se6#\n 1. Sg4  Bg2\n    2. Bg3  Sh3#"
+source: No.239, Zadachi i Etiudy, 2001
+stipulation: H#2
+---
+algebraic:
+  black: [Pb5, Ke6, Pd6, Pa7, Bb8]
+  white: [Bg2, Pb4, Pa6, Ke8]
+authors: [Bordeniuk M]
+options: []
+solution: win
+source: 1° Place VIII command champ USSR, 1972
+stipulation: '#7'
+---
+algebraic:
+  black: [Be1, Ka2, Pe3, Pd5, Pb5]
+  white: [Bg8, Kf8, Sc8]
+authors: [Cebanov N]
+options: []
+solution: draw
+source: Best Problems, 2002
+stipulation: '#8'
+---
+algebraic:
+  black: [Ke5, Rg6, Bf7]
+  white: [Rf1, Sh4, Kh8]
+authors: [Muset I]
+options: []
+solution: "a) Diagram\n \n 1. Rg4  Rf6\n    2. Re4  Kg7\n       3. Bd5  Sf3#\n \n\
+  b) Bbf7->h7\n \n 1. Re6  Kg7\n    2. Bf5  Kf8\n       3. Kf6  Rxf5#"
+source: No.4165, Buletin Problemistic, 2002
+stipulation: H#3
+twins: {b: Move f7 h7}
+---
+algebraic:
+  black: [Kh6, Rb7, Bh8]
+  white: [Rg1, Qb1, Sf6, Pg7, Kf8, Ba8]
+authors: [Cojocari V]
+options: []
+solution: "1.  Ng8+ Kh5 2. Qf5+ Kh4 3. Rg4+ Kh3 \n4. Qf3+ Kh2 5. Rg2+ Kh1 6. Re2+\
+  \ Kg1 \n7. Qf2+ Kh1 8.Re8 Bxg7#"
+source: No.3946, Buletin Problemistic, 2002
+stipulation: S#8
+---
+algebraic:
+  black: [Rb6, Pb5, Kc5, Rg5, Pc4, Pd4, Pa3, Sb3, Bc3, Bd3, Pb2, Pd2, Qe2]
+  white: [Sa2, Kh1]
+authors: [Cebanov N]
+options: [Intelligent]
+solution: Cooked
+source: Uralskii Problemist, 2002
+stipulation: H#4
+twins: {b: Remove a2 Add white Ra2, c: Remove a2 Add white Ba2}
+---
+algebraic:
+  black: [Sh1, Kg1, Pf4, Sd4, Rb6, Qa6, Pb7, Pa7]
+  white: [Ke1, Ra1, Ph2, Pg2, Bg3, Rg5, Pa5, Pe6]
+authors: [Ivanov A]
+options: []
+solution: "Set Play: 1. ... Bxf4!\n    2. Sb5  Ke2#\n \n 1. Rb2?  Rb5\n    2. Rxg2\
+  \  O-O-O#\n\n 1. f3  Rb5\n    2. fxg2  Kd2/c1#\n 1. Sf2  Rb5\n    2. Kh1  Kxf2#"
+source: 1232, Shahmatnaia Poezia, 2002
+stipulation: H#2
+---
+algebraic:
+  black: [Rg1, Bf1, Pe2, Kc4]
+  white: [Kf2, Pd2, Pf6, Ba7]
+authors: [Cojocari V]
+options: [Intelligent]
+solution: draw
+source: No.377, Buletin Problemistic, 2002
+stipulation: H=6
+---
+algebraic:
+  black: [Ba2, Kd5, Rb6, Pb7]
+  white: [Kd7, Sd8, Sc8]
+authors: [Muset I]
+options: []
+solution: "a) Diagram\nNo solution\n \n 1. Kc5  Ke7\n    2. Bd5  Se6\n       3. Kc6\
+  \  Sa7#\n \nb) -Bba2\nNo solution\n \n 1. Rb4  Kc7\n    2. b5  Sb6\n       3. Kc5\
+  \  Se6#"
+source: No.4106, Buletin Problemistic, 2002
+stipulation: H#3
+twins: {b: Remove a2}
+---
+algebraic:
+  black: [Be1, Rd1, Pf3, Kd4]
+  white: [Qc2, Pg3, Bh6, Kc6, Sf7]
+authors: [Croitor M]
+options: []
+solution: "Solution: 1. Sg5! [2. Sxf3#]\n 1. ... Ke3 2. Se6#\n 1. ... Ke5 2. Bg7#\n\
+  \ 1. ... Rd3 2. Qc5#\n 1. ... Bc3 2. Qe4#"
+source: Zadatschi y Etjudi, 2002
+stipulation: '#2'
+---
+algebraic:
+  black: [Bh2, Pg4, Pf4, Sb4, Pa5, Pg6, Kf6, Sf8, Bd8]
+  white: [Se2, Ka2, Ph3, Bf3, Be3, Pd3, Ph4, Pd4, Pd5, Pg7, Pc7, Sb7, Qh8]
+authors: [Ivanov A]
+options: []
+source: VI World Champ
+stipulation: '#3'
+---
+algebraic:
+  black: [Pc3, Bg4, Kd4, Pd5]
+  white: [Kf2, Pc2, Bd3, Sg5, Bd6]
+authors: [Croitor M]
+options: []
+source: Zadatschi y Etjudi, 2002
+stipulation: '#3'
+---
+algebraic:
+  black: [Se2, Pb2, Kd4, Bb4, Pf6, Be8]
+  white: [Pf4, Pa4, Pf5, Pc5, Kg7, Sd7, Ra7]
+authors: [Muset G]
+options: []
+solution: "1. Bd2  Sxf6\n    2. Bxf4  Rd7\n       3. Ke5  Rd5#\n 1. Bxc5  Rc7\n  \
+  \  2. Bd6  Rc4\n       3. Kd5  Sb6#\n 1. Kc3  Se5\n    2. Sd4  Rd7\n       3. Sc2\
+  \  Rd3#"
+source: no.4388, Buletin Problemistic, 2004
+stipulation: H#3
+---
+algebraic:
+  black: [Ph4, Qd4, Rh6, Be6, Kc6, Pc7]
+  white: [Rh3, Pe5, Bf6, Ka6, Qf8]
+authors: [Dimov D]
+options: []
+solution: win
+source: Buletin Problemistic, 2004
+stipulation: '#9'
+---
+algebraic:
+  black: [Be1, Qa1, Pf2, Pc2, Kb2, Pf3, Bg4, Rf4, Pf5, Re5, Pb5, Pb6, Sg7, Sa7]
+  white: [Sf1, Rd2, Ba2, Pb3, Pa3, Qe4, Kb4, Bh8]
+authors: [Ivanov A  \avCroitor M]
+options: []
+solution: "1. Se6  Bxe5\n    2. Sd4  Qxc2#\n 1. Rc5  Bxg7\n    2. Rc3  Rxc2#"
+source: No.1858, Diagrammes, 2002
+stipulation: H#2
+---
+algebraic:
+  black: [Pb4, Pb5, Ba5, Kb6, Qa6, Pe7, Pb7, Pa7]
+  white: [Pg2, Pb2, Pb3, Re5, Pe6, Bh7, Kg7, Se8]
+authors: [Cebanov N]
+options: []
+solution: "1. Se6  Bxe5\n    2. Sd4  Qxc2#\n 1. Rc5  Bxg7\n    2. Rc3  Rxc2#"
+source: Probleemblad, 2002
+stipulation: '#12'
+---
+algebraic:
+  black: [Bg4, Pe4, Ke5, Re6, Qb7]
+  white: [Kc3, Bf5, Pd5, Sd6]
+authors: [Ghinda A.]
+options: []
+solution: "1. Qf7  Bxe4\n    2. Qf4  Kd3\n       3. Rf6  Sc4#\n 1. Kxd5  Sxe4\n  \
+  \  2. Re5  Bc8\n       3. Be6  Bxb7#"
+source: No.4452, Buletin Problemistic, 2005
+stipulation: H#3
+---
+algebraic:
+  black: [Ph3, Rc4, Kf5, Sg6, Rc7, Bb8]
+  white: [Sh1, Rg1, Bg2, Qd2, Pg3, Pd3, Pg5, Pf6, Pe6, Kd6, Rh7]
+authors: [Tcaciuc V]
+options: []
+solution: "Solution: 1. g4!+\n 1. ... Kxg4 2. Bd5+\n    2. ... Kf5 3. Sg3+\n     \
+  \  3. ... Kg4 4. Sh5+\n          4. ... Kh4 5. Sf4 ... Rxh7#\n          4. ... Kf5\
+  \ 5. Sg7 ... Rxg7#\n 1. ... Rxg4 2. Be4+\n    2. ... Rxe4 3. Sg3+\n       3. ...\
+  \ Kg4 4. Se2+\n          4. ... Kf3 5. Sd4 ... Rxd4#\n          4. ... Kf5 5. Sd4\
+  \ ... Rxd4#"
+source: Buletin Problemistic, 2005
+stipulation: S#5
+---
+algebraic:
+  black: [Pe3, Pa4, Rh5, Bc6, Ph7, Pb7, Kh8, Rf8, Sb8]
+  white: [Sg1, Bf1, Qd1, Bc1, Sb1, Ra1, Pg2, Pf2, Pc2, Pb2, Pa2, Kf3, Ba3]
+authors: [Ivanov A]
+options: []
+solution: shortest proof game
+source: No.4331, Buletin Problemistic, 2005
+stipulation: ser#14
+---
+algebraic:
+  black: [Sf2, Ph3, Pb3, Kd4, Pa4]
+  white: [Rh1, Bg8, Ke8]
+authors: [Croitor M]
+options: []
+solution: draw
+source: HonourableMention BT "Nona 2006"
+stipulation: ser=11
+---
+algebraic:
+  black: [Qa2, Pg3, Bh4, Pa4, Ke5, Sd5]
+  white: [Bg1, Rf1, Pc3, Kg6]
+authors: [Ginda A.]
+options: []
+solution: "1. Se7+  Kh5\n    2. Qe6  Bf2\n       3. Kf6  Bd4#\n 1. Sf6  Be3\n    2.\
+  \ Se4  Rf6\n       3. Qd5  Bf4#\n 1. Sxc3  Rf2\n    2. Kd4  Kf5\n       3. Qc4 \
+  \ Rd2#\n 1. Ke6  Rf7\n    2. Sf6  Bc5\n       3. Qd5  Re7#"
+source: No.4371, Buletin Problemistic, 2006
+stipulation: H#3
+---
+algebraic:
+  black: [Pe5, Re7, Kc7, Pa7]
+  white: [Kd5, Sc5, Sd6]
+authors: [Tcaciuc V circe]
+options: []
+solution: cooked
+source: HonourableMention Saptamana, 1999
+stipulation: H#2
+---
+algebraic:
+  black: [Sh1, Rg4, Kd4, Pg6, Pf7, Rd7, Sa8]
+  white: [Ka1, Bg2, Pd2, Sd3, Pc4, Se5, Pa6, Qg7, Rh8]
+authors: [Ivanov A]
+options: []
+source: VIII World Champ (corection)
+stipulation: '#3'
+---
+algebraic:
+  black: [Pe2, Pg3, Pg5, Pd6, Kf8]
+  white: [Sf5, Rd5, Pa5, Kg6]
+authors: [Croitor M]
+options: []
+solution: win
+source: 1° HonourableMention JT Dvoretski-60, 2007
+stipulation: '#10'
+---
+algebraic:
+  black: [Rb1, Qh2, Ba4, Pb5, Kf8]
+  white: [Qf4, Bb4, Ph6, Sf6, Sd6, Bh7, Kd7]
+authors: [Cebanov N]
+options: []
+solution: "Solution: 1. Ke6! [2. Sd7#]\n 1. ... Bb3+ 2. Sc4#\n 1. ... Qe2+ 2. Sfe4#\n\
+  \ 1. ... Qa2+ 2. Sd5#\n 1. ... Qh3+ 2. Sg4#\n 1. ... Qxh6 2. Qxh6#\n 1. ... Re1+\
+  \ 2. Sde4#"
+source: Probleemblad, 2002
+stipulation: '#2'
+---
+algebraic:
+  black: [Ph2, Rg5, Kg6, Bd7]
+  white: [Kh1, Pg2]
+authors: [Brodescu P]
+options: []
+source: Buletin Problemistic, 2004
+stipulation: H#5
+---
+algebraic:
+  black: [Kh1, Ph2, Pf2, Pb4, Ph5, Pb5, Pg6, Pf7]
+  white: [Kf1, Pe2, Pb3, Pg5, Pf5, Pd7]
+authors: [Ivanov A]
+options: []
+source: 3111, Zadatschi y Etjudi, 2008
+stipulation: S#8
+---
+algebraic:
+  black: [Rh1, Kg1, Ph2, Rh3, Pc3, Bh4, Pg4, Pf6]
+  white: [Kc1, Rf2, Pc2, Sg3, Qe3, Sf4, Pf5]
+authors: [Cebanov N]
+options: []
+source: 5° HonourableMention 46 congress in Moscow, 2003
+stipulation: S#3
+---
+algebraic:
+  black: [Ph3, Bf3, Pc3, Ph5, Pd5, Kf8]
+  white: [Rd4, Pe5, Ke6]
+authors: [Croitor M]
+options: []
+source: Mat Plus Winter, 2008
+stipulation: '#2'
+---
+algebraic:
+  black: [Be1, Kg6, Ra6, Pg7]
+  white: [Kh2, Pf2]
+authors: [Verdi G]
+options: []
+source: Buletin Problemistic, 2004
+stipulation: H#5
+---
+algebraic:
+  black: [Qh1, Kg1, Sa1, Pf2, Rh3, Sa5, Ph6, Pg6, Rh7, Pf7, Pe7, Pd7, Pc7, Pb7, Bc8,
+    Bb8]
+  white: [Ph2, Pg2, Re2, Pd2, Pc2, Rb2, Pa2, Pe3, Kd3, Pb3, Bg8]
+authors: [Ivanov A. correction]
+options: []
+solution: who won?
+source: Shakhmatnaia compozitsyea, 2002
+stipulation: '#2'
+---
+algebraic:
+  black: [Pg3, Sd3, Bh4, Kg4, Bc4, Pg5, Pc5]
+  white: [Bc1, Pg2, Qc2, Ra4, Pe5, Pg6, Kf6, Sg7, Pe7]
+authors: [Ghinda A]
+options: []
+solution: "Solution: 1. Qd2! waiting\n 1. ... Sxe5 2. Qd7 ... Sxd7#\n 1. ... Sb4 2.\
+  \ Qf4 ... gxf4#\n 1. ... Sf4 2. Qxf4 ... gxf4#\n 1. ... Sb2 2. Qf4 ... gxf4#\n 1.\
+  \ ... Sf2 2. Qf4 ... gxf4#\n 1. ... Sxc1 2. Qxg5 ... Bxg5#\n 1. ... Se1 2. Qf4 ...\
+  \ gxf4#"
+source: Buletin Problemistic, 2003
+stipulation: S#2
+---
+algebraic:
+  black: [Rg4, Ka4, Pf5, Pd5, Pe6]
+  white: [Sg1, Rh2, Ke3, Pf4]
+authors: [Croitor M]
+options: []
+solution: win
+source: Mat Plus Spring-Summer, 2009
+stipulation: '#12'
+---
+algebraic:
+  black: [Kh1]
+  white: [Ka1, Ra3]
+authors: [Racu V]
+options: []
+solution: mat, white rook can make only last move, with checkmate
+source: Nezavisimaea Moldova, 2009
+stipulation: '#2'
+---
+algebraic:
+  black: [Kd4, Pd5]
+  white: [Sg2, Qc2, Kg7, Sf7]
+authors: [Croitor M]
+comments: ['1 place, RM Championship 2010
+
+    Points: 3 (K) + 4 (G) + 2.5(I) + 2 (M)']
+options: []
+solution: "Solution: 1. Qc1! waiting\n 1. ... Ke4 2. Qe3+\n    2. ... Kf5 3. Sh6#\n\
+  \ 1. ... Kd3 2. Se5+\n    2. ... Kd4 3. Qe3#\n    2. ... Ke2 3. Qe1#\n    2. ...\
+  \ Ke4 3. Qf4#"
+source: ''
+stipulation: '#3'
+---
+algebraic:
+  black: [Kd5, Re7]
+  white: [Bb1, Kc1, Ra8]
+authors: [Ghinda A]
+comments: ['2 place, RM Championship 2010
+
+    Points: 2.5 (K) + 3 (G) + 3.5(I) + 2 (M)']
+keywords: ['battery, echo mate']
+options: []
+solution: "1.Ke6 Bf5+ 2.Kf7 Bc8 3.Ke8 Be6# \n1.Kc4 Bd3+ 2.Kb3 Ba6 3.Ka2 Bc4#"
+stipulation: h#3
+---
+algebraic:
+  black: [Bb7, Kb4, Pf7]
+  white: [Sc4, Pg2, Be6, Kh8]
+authors: [Cebanov N]
+comments: ['3 place, RM Championship 2010
+
+    Points: 2.5 (K) + 2 (G) + 2.5 (I) + 3 (M)']
+keywords: [en passant]
+options: [Intelligent]
+solution: 1.Kc5 Bh3 2.Kd5 g4 3.Ke6 Kg7 4.Bd5 g5+ 5.f5 gxf6 e.p.#
+source: ''
+stipulation: H#5
+---
+algebraic:
+  black: [Bc4, Pa6, Pa5, Pc5, Pa3, Pa2, Ka4]
+  white: [Rb8, Ka1, Bh5, Pd3, Pc2]
+authors: ['Ivanov,A']
+comments: ['4 place, RM Championship 2010
+
+    Points: 2.5 (K) + 3 (G) + 1 (I) + 3 (M)']
+keywords: [albino]
+options: []
+solution: "1.Bd1! \n  1...B~ 2.c4# \n  1...Bxd3 2.cxd3# \n  1...Bb3 2.cxb3# \n  1...Bb5\
+  \ 2.c3#"
+stipulation: '#2'
+---
+algebraic:
+  black: [Kc8, Qd7, Qg3]
+  white: [Qf3, Kf1]
+authors: ['Croitor, M', 'Moldoveanu, P']
+comments: ['1-2 place, RM Championship 2011 (additional)
+
+    Points: 2.5 (K) + 3 (G) + 1 (I) + 3 (M)']
+options: [Intelligent]
+solution: '1.Qgc7 Ke2 2.Qe7+ Kd3 3.Kd7 Kd4 4.Kd6 Qd5#
+
+  1.Qgd6 Kg2 2.Q7e7 Kh3 3.Kd7 Kg4 4.Ke6 Qf5#'
+stipulation: h#4
+---
+algebraic:
+  black: [Bf8, Kd8, Bc8, Rb8, Rh7, Ph6, Pg7, Pf7, Pe7, Pd7, Pc7, Pb7, Pa6, Sh2]
+  white: [Sa7, Ke1, Sh1, Rg1, Bf1, Bc1, Ra2, Pa3, Pb2, Pc2, Pd2, Pe2, Pf2, Pg2, Pg3]
+authors: ['Ivanov, A']
+comments: ['1-2 place, RM Championship 2011
+
+    Points: 4 (K) + 4 (G) + 3.5 (I) + 4 (M)']
+keywords: [retrograde analyze]
+options: [Duplex, Intelligent]
+solution: "1.Sg4?? Sb5 2.Sf6 Sd6 3.Se8 Sxf7# \n\n1.Sb5! Sg4 2.Sc3 Se3 3.Sd1 Sxc2#"
+stipulation: h#3
+---
+algebraic:
+  black: [Pf7, Rf5, Ke5, Pe4, Bc7, Pc5, Be2]
+  white: [Pg4, Sf4, Be7, Pf6, Rb6, Kb2, Sc2, Qc1, Re1]
+authors: [Ghinda A]
+options: []
+solution: "1.Sd4! threat: 2.Sc6# \n  1...Rxf4 2.Qxc5# \n  1...cxd4 2.Qxc7# \n  1...Kxd4\
+  \ 2.Qc3# \n  1...Bb5 2.Sf3# \n  1...Rxf6 2.Bxf6# \n  1...e3 2.Qxe3#"
+stipulation: '#2'
