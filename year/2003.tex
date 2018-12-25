@@ -26,7 +26,7 @@ showmover=false] &
 setfen=8/pp6/qr2P3/P5R1/3n1p2/6B1/6PP/R3K1kn,
 label=false,
 showmover=false] \\
-\textbf{H\#4 \knight{}a2 $\to$ \rook{}a2 $\to$ \bishop{}a2} & \textbf{} 
+\textbf{H\mate{}4 \knight{}a2 $\to$ \rook{}a2 $\to$ \bishop{}a2} & \textbf{H\mate{}2*   2 решения} 
  \end{tabular}
 \end{center}
 
@@ -36,12 +36,14 @@ showmover=false] \\
 \item [c)] wBa2  \textbf{1.\bishop{}b4 \bishop{}xb3 2.c3 \bishop{}c2 3.\king{}c4 \bishop{}b1 4.\rook{}c5 \bishop{}a2 \mate}
 \end{description}
 
-№ 25 1. ... Bxf4! 2. Sb5  Ke2 \mate
+№ 25 Иллюзорная игра \textbf{1. ... \bishop{}xf4! 2. \knight{}b5 \king{}e2 \mate}
  
- 1. Rb2?  Rb5 2. Rxg2  O-O-O \mate
+Ложный след \textbf{1. \rook{}b2? \rook{}b5 2. \rook{}xg2 O-O-O \mate}
 
- 1. f3  Rb5 2. fxg2 Kd2/c1 \mate
- 1. Sf2  Rb5 2. Kh1 Kxf2 \mate
+\begin{enumerate*}[label={\alph*)}] 
+\item \textbf{1. f3 \rook{}b5 2. fxg2 \king{}d2/c1 \mate}
+\item \textbf{1. \knight{}f2 \rook{}b5 2. \king{}h1 \king{}xf2 \mate}
+\end{enumerate*}
 
 \begin{center} 
  \begin{tabular}{ c c }
@@ -55,16 +57,21 @@ label=false,
 showmover=false] & 
 \chessboard[
 \diagramsize,
-setfen=2NN4/1p1K4/1r6/3k4/8/8/b7/8,
+setfen=2NN4/1p1K4/1r6/3k4/8/8/8/8,
 label=false,
 showmover=false] \\
-\textbf{} & \textbf{} 
+\textbf{=} & \textbf{H\mate{}3   +B\bishop{}a2} 
  \end{tabular}
 \end{center}
 
-№ 26
+№ 26 \textbf{1. f7 \rook{}h1!} 
+(1... e1=\queen{}+ 2. \king{}xe1 \rook{}h1 3.\bishop{}g1! \rook{}h8 (3... \rook{}xg1 4. \king{}f2!) 4. \king{}xf1) 
+\textbf{2. f8=\queen{} e1=\queen{}+ 3. \queen{}xe1 \bishop{}d3+ 4. \bishop{}g1! \rook{}xg1+ 5. \king{}f2 \rook{}f1+ 6. \king{}e3 \rook{}xf8} пат
 
-№ 27
+№ 27 \begin{description} 
+\item [a)] original textbf{1. \rook{}b4 \king{}c7 2. b5 \knight{}b6 3. \king{}c5 \knight{}e6\mate}
+\item [b)] +B\bishop{}a2 \textbf{1. \king{}c5 \king{}e7 2. \bishop{}d5 \knight{}e6 3. \king{}c6 \knight{}a7\mate}
+\end{description}
 
 \begin{wrapfigure}{r}{0.5\textwidth}
 \begin{center} 
@@ -77,13 +84,13 @@ showmover=false] \\
 setfen=8/5N2/2K4B/8/3k4/5pP1/2Q5/3rb3,
 label=false,
 showmover=false] \\
-\textbf{} 
+\textbf{\mate{}2} 
  \end{tabular}
 \end{center}
 \end{wrapfigure}
 
-№ 28 1. \knight{}g5! $\sim$ 2. \knight{}xf3 \mate;
- 1. ... \king{}e3 2. \knight{}e6\mate;
- 1. ... \king{}e5 2. \bishop{}g7\mate;
- 1. ... \rook{}d3 2. \queen{}c5\mate;
- 1. ... \bishop{}c3 2. \queen{}e4\mate
+№ 28 Задача популярного стиля \textbf{1. \knight{}g5! $\sim$ 2. \knight{}xf3 \mate;}
+ \textbf{1. ... \king{}e3 2. \knight{}e6\mate;}
+ \textbf{1. ... \king{}e5 2. \bishop{}g7\mate;}
+ \textbf{1. ... \rook{}d3 2. \queen{}c5\mate;}
+ \textbf{1. ... \bishop{}c3 2. \queen{}e4\mate}
