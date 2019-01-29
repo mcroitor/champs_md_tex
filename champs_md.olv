@@ -373,7 +373,7 @@ algebraic:
   black: [Pe5, Re7, Kc7, Pa7]
   white: [Kd5, Sc5, Sd6]
 authors: [Tcaciuc V circe]
-options: []
+options: [Circe]
 solution: cooked
 source: HonourableMention Saptamana, 1999
 stipulation: H#2
